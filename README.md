@@ -1,5 +1,7 @@
 # ECSEngine
-An ECSEngine framework written in C++ to be used in game development.
+An ECSEngine framework written in C++ to be used in game development. 
+
+This project currently is <b>very early in development</b> and many things are missing.
 
 <h2> Get Started </h2>
 
