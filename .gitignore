@@ -1,0 +1,12 @@
+.vs/
+Build/
+Debug/
+Release/
+x64/Debug/
+*.ipch
+*.vsidx
+*.lock
+*.db-wal
+*.opendb
+*.db-shm
+.vs/
